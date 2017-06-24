@@ -1,15 +1,21 @@
-//
-//  main.cpp
-//  Program_One
-//
-//  Created by Fred Trinh on 6/24/17.
-//  Copyright © 2017 Fred Trinh. All rights reserved.
-//
+/*
+
+DESCRIPTION:    PROGRAM ONE
+
+CLASS:          COSC 1436.3S1
+
+AUTHOR:         FRED TRINH
+
+DATE:           8 JUNE 2017
+
+*/
 
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+using namespace std;
+
+void main ()
+
+{
+    cout << "First programming assignment by Fred Trinh for COSC 1436.3S1." << endl;
 }
